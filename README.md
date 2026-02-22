@@ -9,6 +9,13 @@ Vaccination data from Our World in Data
 - Vaccine manufacturer information
 - Testing and variant surveillance datasets
 
+# Dashboard Capabilities
+- Country-level interactive selection
+- Manufacturer distribution mapping
+- Daily vaccination trends
+- Comparative % population coverage
+- Overlay with testing and variant evolution data
+
 # Inspiration
 Track COVID-19 vaccination in the World, to answer these questions:
 •	Which country is using what vaccine?
